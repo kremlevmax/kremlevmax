@@ -1,5 +1,5 @@
 ![Alt text](/2021-10-28_22-53-45.png)
-
+Hi there! My name is Max and I am a self-taught frontend developer. 
 
 <!--
 **kremlevmax/kremlevmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
