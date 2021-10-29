@@ -10,10 +10,10 @@ My skills and tools:
 * Redux
 * Fetch API, CSS Modules, Firebase API and etc.
 
-<p align="center"> You can find me on </p>
-  [![LinkedIn](/linkedin-5-24.png)][1]
+<hr/>
 
-<a href = "https://www.linkedin.com/in/max-kremlev/"><img src="/linkedin-5-24.png"></a>
+<p align="center"> You can find me on </p>
+<p align="center"><a href = "https://www.linkedin.com/in/max-kremlev/"><img src="/linkedin-5-24.png"></a></p>
 
 
 <!-- Links to your social media accounts -->
