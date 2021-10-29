@@ -14,7 +14,10 @@ My skills and tools:
 <hr/>
 
 <h3 align="center">You can find me on</h3>
-<p align="center"><a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin"><img src="/linkedin-5-24.png" ></a></p>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin"><img src="/linkedin-5-24.png"></a>
+  <a href = "https://t.me/kremlevmax" title="Telegram"><img src="/telegram.png"></a>
+</p>
 
 
 <!-- Links to your social media accounts -->
