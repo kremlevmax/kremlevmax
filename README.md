@@ -13,7 +13,7 @@ My skills and tools:
 
 <hr/>
 
-<p align="center"><h2>You can find me on</h2></p>
+<h2 align="center">You can find me on</h2>
 <p align="center"><a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin"><img src="/linkedin-5-24.png" ></a></p>
 
 
