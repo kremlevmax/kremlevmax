@@ -14,7 +14,7 @@ You can find me on [![LinkedIn](/linkedin-5-xxl.png)][1]
 
 <!-- Icons -->
 
-[1.2]: (/linkedin-5-xxl.png)
+[1.2]: (/linkedin-5-24.png)
 
 <!-- Links to your social media accounts -->
 
