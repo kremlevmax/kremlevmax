@@ -10,7 +10,8 @@ My skills and tools:
 * Redux
 * Fetch API, CSS Modules, Firebase API and etc.
 
-<p align="center"> You can find me on [![LinkedIn](/linkedin-5-24.png)][1] </p>
+<p align="center"> You can find me on:</p>
+[![LinkedIn](/linkedin-5-24.png)][1]
 
 <!-- Links to your social media accounts -->
 
