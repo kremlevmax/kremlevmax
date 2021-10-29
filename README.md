@@ -11,6 +11,9 @@ My skills and tools:
 * Fetch API, CSS Modules, Firebase API and etc.
 
 
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=kremlevmax&count_private=true)
+
+
 <hr/>
 
 <h3 align="center">Ways to contact me:</h3>
