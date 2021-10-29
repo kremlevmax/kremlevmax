@@ -12,10 +12,6 @@ My skills and tools:
 
 You can find me on [![LinkedIn](/linkedin-5-24.png)][1]
 
-<!-- Icons -->
-
-[1.2]: (/linkedin-5-24.png)
-<p align="center"> You can find me on [![LinkedIn](/linkedin-5-24.png)][1] </p>
 
 
 <!-- Links to your social media accounts -->
