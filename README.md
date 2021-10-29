@@ -11,13 +11,7 @@ My skills and tools:
 * Fetch API, CSS Modules, Firebase API and etc.
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact)](https://github.com/kremlevmax/github-readme-stats)
-
-
-
-<hr/>
-
-<h3 align="center">Ways to contact me:</h3>
+<h3 align="center">Drop me a line:</h3>
 <p align="center">
   <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin" target="_blank"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
   <a href = "mailto:kremlevmax1989@gmail.com" title="Email"><img src="/email-24.png"></a>&nbsp;&nbsp;
@@ -25,6 +19,8 @@ My skills and tools:
   <a href = "https://www.instagram.com/krmlvmx/" title="Instagram" target="_blank"><img src="/instagram-6-24.png"></a>&nbsp;&nbsp;
 </p>
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" />
 
 <!-- Links to your social media accounts -->
 
