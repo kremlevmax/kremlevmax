@@ -1,7 +1,7 @@
 ![Alt text](/2021-10-28_22-53-45.png)  
 
 
-Hi there! My name is Max and I am a self-taught frontend developer. 
+Hi there! My name is Max and I am a self-taught frontend developer. I never stop learning new things and love coding.
 
 My skills and tools:
 * HTML
@@ -10,10 +10,11 @@ My skills and tools:
 * Redux
 * Fetch API, CSS Modules, Firebase API and etc.
 
+
 <hr/>
 
-<p align="center"> You can find me on </p>
-<p align="center"><a href = "https://www.linkedin.com/in/max-kremlev/"><img src="/linkedin-5-24.png"></a></p>
+<p align="center"><h3>You can find me on</h3></p>
+<p align="center"><a href = "https://www.linkedin.com/in/max-kremlev/"><img src="/linkedin-5-24.png" alt="Linkedin"></a></p>
 
 
 <!-- Links to your social media accounts -->
