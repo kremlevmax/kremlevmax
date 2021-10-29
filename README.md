@@ -18,7 +18,6 @@ My skills and tools:
   <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin" target="_blank"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
   <a href = "mailto:kremlevmax1989@gmail.com" title="Email"><img src="/email-24.png"></a>&nbsp;&nbsp;
   <a href = "https://t.me/kremlevmax" title="Telegram" target="_blank"><img src="/telegram-24.png"></a>&nbsp;&nbsp;
-  <a href = "sms:+14253754075" title="Instagram" target="_blank"><img src="/instagram-6-24.png"></a>&nbsp;&nbsp;
   <a href = "https://www.instagram.com/krmlvmx/" title="Instagram" target="_blank"><img src="/instagram-6-24.png"></a>&nbsp;&nbsp;
 </p>
 
