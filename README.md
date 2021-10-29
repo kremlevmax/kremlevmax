@@ -16,6 +16,7 @@ My skills and tools:
 <h3 align="center">You can find me on</h3>
 <p align="center">
   <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
+  <a href = "mailto:kremlevmax1989@gmail.com" title="Email"><img src="/email-24.png"></a>&nbsp;&nbsp;
   <a href = "https://t.me/kremlevmax" title="Telegram"><img src="/telegram-24.png"></a>
 </p>
 
