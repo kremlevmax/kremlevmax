@@ -8,15 +8,14 @@ My skills and tools:
 * CSS
 * React JS
 * Redux
-* Fetch API, CSS Modules, Firebase API and etc.
-
+* Fetch API, CSS Modules, Firebase API and etc.  
+  
+  
 </br>
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" /></p>  
+  
+  
 </br>
-
 <h3 align="center">Drop me a line &nbsp; 💬 :</h3>
 <p align="center">
   <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin" target="_blank"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
