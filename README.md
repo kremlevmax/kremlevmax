@@ -2,7 +2,14 @@
 
 
 Hi there! My name is Max and I am a self-taught frontend developer. 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+My skills and tools:
+* HTML
+* CSS
+* React JS
+* Redux
+* Fetch API, CSS Modules, Firebase API and etc.
+
 
 
 <!--
