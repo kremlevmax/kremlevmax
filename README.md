@@ -10,7 +10,7 @@ My skills and tools:
 * Redux
 * Fetch API, CSS Modules, Firebase API and etc.
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
@@ -19,8 +19,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/max-kremlev/
 <!--
 **kremlevmax/kremlevmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
