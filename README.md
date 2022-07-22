@@ -3,12 +3,7 @@
 
 Hi there! My name is Max and I am a self-taught frontend developer. I never stop learning new things and love coding &nbsp;🌱 .
 
-My skills and tools:
-* HTML
-* CSS
-* React JS
-* Redux
-* Fetch API, CSS Modules, Firebase API and etc.  
+My skills and tools: HTML, CSS, Sass, CSS Modules, React, Next.js, React Router, Redux Toolkit, GraphQL, Apollo Client, Node.js, Firebase API, Strapi, Boxicons, Formspree, Swiper.js and etc.  
   
   
 </br>
