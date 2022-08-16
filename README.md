@@ -2,13 +2,13 @@ Hi there!
 
 My name is Max and I am a self-taught frontend developer. I love coding and never stop learning new things.
 
-Languages: HTML, CSS, JavaScript, TypeScript
+**Languages**: HTML, CSS, JavaScript, TypeScript
 
-Frameworks and State/Data Management: React, React Router, NextJS, Redux Toolkit, Firebase, Axios, Apollo Client, GraphQL, Strapi CMS, MongoDB, Formspree
+**Frameworks and State/Data Management**: React, React Router, NextJS, Redux Toolkit, Firebase, Axios, Apollo Client, GraphQL, Strapi Headless CMS, MongoDB, Formspree
 
-UI Libraries: Sass, CSS Modules, FramerJS, Material UI, Boxicons, Font Awesome
+**UI Libraries**: Sass, CSS Modules, FramerJS, Material UI, Boxicons, Font Awesome
 
-Tools: Jira, Cypress, Jest, Git, webpack
+**Tools**: Jira, Cypress, Jest, Git, webpack
 
 [My Portfolio](https://maxkremlev.dev/)
   
