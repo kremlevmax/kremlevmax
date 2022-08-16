@@ -1,4 +1,6 @@
-Hi there! My name is Max and I am a self-taught frontend developer. I never stop learning new things and love coding.
+Hi there! 
+
+My name is Max and I am a self-taught frontend developer. I love coding and never stop learning new things.
 
 Languages: HTML, CSS, JavaScript, TypeScript
 
