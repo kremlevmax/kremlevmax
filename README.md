@@ -14,7 +14,7 @@ My name is Max and I am a self-taught frontend developer. I love coding and neve
   
   
 </br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" /></p>  
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" /></p>  
   
   
 </br>
