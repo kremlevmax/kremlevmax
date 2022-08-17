@@ -11,19 +11,23 @@ My name is Max and I am a self-taught frontend developer. I love coding and neve
 **Tools**: Jira, Cypress, Jest, Git, webpack
 
 [My Portfolio](https://maxkremlev.dev/)
-  
-  
+
+
+<h4 align="left">📫 How to reach me 💬 :</h4>
+
+  <p align="left">
+  <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin" target="_blank"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
+  <a href = "mailto:kremlevmax.webdev@icloud.com" title="Email"><img src="/email-24.png"></a>&nbsp;&nbsp;
+  <a href = "https://t.me/kremlevmax" title="Telegram" target="_blank"><img src="/telegram-24.png"></a>&nbsp;&nbsp;
+</p>
+
 </br>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremlevmax&layout=compact" /></p>  
   
   
 </br>
-<h4 align="center">📫 How to reach me 💬 :</h4>
-<p align="center">
-  <a href = "https://www.linkedin.com/in/max-kremlev/" title="Linkedin" target="_blank"><img src="/linkedin-5-24.png"></a>&nbsp;&nbsp;
-  <a href = "mailto:kremlevmax.webdev@icloud.com" title="Email"><img src="/email-24.png"></a>&nbsp;&nbsp;
-  <a href = "https://t.me/kremlevmax" title="Telegram" target="_blank"><img src="/telegram-24.png"></a>&nbsp;&nbsp;
-</p>
+
+
 
 
 <!--
